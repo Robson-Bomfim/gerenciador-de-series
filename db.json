@@ -1,0 +1,45 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "photo": "https://http2.mlstatic.com/dvd-how-i-met-your-mother-completo-dublado-com-caixinhas-D_NQ_NP_638097-MLB27240327341_042018-F.webp",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "photo": "https://www.factinate.com/wp-content/uploads/2017/05/197886641.jpg",
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad ",
+      "status": "watched",
+      "genre": "Drama",
+      "photo": "https://vr-world.com/wp-content/uploads/2017/06/Breaking-Bad-01-810x400.jpg",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "name": "La Casa de Papel",
+      "status": "watched",
+      "genre": "Ação",
+      "photo": "https://static.noticiasaominuto.com/stockimages/1920/naom_5ad8b16ebad62.jpg",
+      "comments": "muito bom!",
+      "id": 4
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}

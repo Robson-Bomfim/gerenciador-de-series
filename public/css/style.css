@@ -1,0 +1,14 @@
+h2 {
+  color: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.55));
+  font-size: 2em;
+  text-align: center;
+}
+
+h2:after {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 3px;
+  background: #000000;
+  margin: 0 auto;
+}
